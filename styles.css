@@ -58,7 +58,7 @@ ul {
 /*Parallax is the parent of ALL*/
 .parallax {
   /* Parallax image */
-  background-image: url('intro_adjusted2.png');
+  background-image: url('Images/intro_adjusted2.png');
 
   /* Full height */
   height: 100%;
@@ -224,15 +224,15 @@ div.carousel-inner {
 }
 
 .repair {
-  background-image: url("repair.jpg");
+  background-image: url("Images/repair.jpg");
 }
 
 .trade-ins {
-  background-image: url("trade-ins.jpg");
+  background-image: url("Images/trade-ins.jpg");
 }
 
 .warranty {
-  background-image: url("Warranty.jpg");
+  background-image: url("Images/Warranty.jpg");
 }
 
 
@@ -289,39 +289,39 @@ div.carousel-inner {
 }
 
 .Mountain-Bikes {
-  background-image: url("mountain-bike2.png");
+  background-image: url("Images/mountain-bike2.png");
 }
 
 .Road-Bikes {
-  background-image: URL("bicycle-blue-bricks.jpg");
+  background-image: URL("Images/bicycle-blue-bricks.jpg");
 }
 
 .Hybrids {
-  background-image: URL("hybrid.jpg");
+  background-image: URL("Images/hybrid.jpg");
 }
 
 .Leisure {
-  background-image: URL("leisure.jpg");
+  background-image: URL("Images/leisure.jpg");
 }
 
 .Electric {
-  background-image: URL("electric-bike.jpg");
+  background-image: URL("Images/electric-bike.jpg");
 }
 
 .Kids {
-  background-image: URL("kids.jpg");
+  background-image: URL("Images/kids.jpg");
 }
 
 .Road-Racing {
-  background-image: URL("road-race.jpg");
+  background-image: URL("Images/road-race.jpg");
 }
 
 .Gear {
-  background-image: URL("apparel.jpg");
+  background-image: URL("Images/apparel.jpg");
 }
 
 .Parts {
-  background-image: URL("parts.jpg");
+  background-image: URL("Images/parts.jpg");
 }
 
 
